@@ -1,0 +1,1 @@
+In this example, pyvelodyne is a Python library for communicating with Velodyne LiDAR sensors. The IP address 192.168.0.10 should be replaced with the IP address of your Velodyne sensor. The get_frame method returns a raw binary buffer of LiDAR data, which is then converted to a NumPy array for easier manipulation.
